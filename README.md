@@ -58,7 +58,7 @@ Zajmuję się tworzeniem zaawansowanych **pluginów**, **paczek** oraz **gotowyc
 <table align="center">
   <tr>
     <td align="center">
-      <img src="LINK_DO_ZDJĘCIA_1" width="250px" alt="Projekt 1"/><br/>
+      <img src="https://github.com/user-attachments/assets/055bde43-4351-40fb-b602-e4342c92a3e0" width="250px" alt="Projekt 1"/><br/>
       <b>Projekt #1</b>
     </td>
     <td align="center">
