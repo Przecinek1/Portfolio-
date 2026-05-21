@@ -55,32 +55,32 @@ Zajmuję się tworzeniem zaawansowanych **pluginów**, **paczek** oraz **gotowyc
 
 <h3 align="center">Przykładowe realizacje</h3>
 
-<table align="center">
+<table align="center" style="border-collapse: separate; border-spacing: 15px; width: 100%;">
   <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/055bde43-4351-40fb-b602-e4342c92a3e0" width="250px" alt="Projekt 1"/><br/>
+    <td align="center" style="border: 1px solid #d0d7de; border-radius: 6px; padding: 15px; background: #f6f8fa; width: 33%;">
+      <img src="https://github.com/user-attachments/assets/055bde43-4351-40fb-b602-e4342c92a3e0" alt="Projekt 1" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;"/>
       <b>Projekt #1</b>
     </td>
-    <td align="center">
-      <img src="LINK_DO_ZDJĘCIA_2" width="250px" alt="Projekt 2"/><br/>
+    <td align="center" style="border: 1px solid #d0d7de; border-radius: 6px; padding: 15px; background: #f6f8fa; width: 33%;">
+      <img src="TUTAJ_WKLEJ_LINK_2" alt="Projekt 2" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;"/>
       <b>Projekt #2</b>
     </td>
-    <td align="center">
-      <img src="LINK_DO_ZDJĘCIA_3" width="250px" alt="Projekt 3"/><br/>
+    <td align="center" style="border: 1px solid #d0d7de; border-radius: 6px; padding: 15px; background: #f6f8fa; width: 33%;">
+      <img src="TUTAJ_WKLEJ_LINK_3" alt="Projekt 3" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;"/>
       <b>Projekt #3</b>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="LINK_DO_ZDJĘCIA_4" width="250px" alt="Projekt 4"/><br/>
+    <td align="center" style="border: 1px solid #d0d7de; border-radius: 6px; padding: 15px; background: #f6f8fa; width: 33%;">
+      <img src="TUTAJ_WKLEJ_LINK_4" alt="Projekt 4" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;"/>
       <b>Projekt #4</b>
     </td>
-    <td align="center">
-      <img src="LINK_DO_ZDJĘCIA_5" width="250px" alt="Projekt 5"/><br/>
+    <td align="center" style="border: 1px solid #d0d7de; border-radius: 6px; padding: 15px; background: #f6f8fa; width: 33%;">
+      <img src="TUTAJ_WKLEJ_LINK_5" alt="Projekt 5" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;"/>
       <b>Projekt #5</b>
     </td>
-    <td align="center">
-      <img src="LINK_DO_ZDJĘCIA_6" width="250px" alt="Projekt 6"/><br/>
+    <td align="center" style="border: 1px solid #d0d7de; border-radius: 6px; padding: 15px; background: #f6f8fa; width: 33%;">
+      <img src="TUTAJ_WKLEJ_LINK_6" alt="Projekt 6" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;"/>
       <b>Projekt #6</b>
     </td>
   </tr>
