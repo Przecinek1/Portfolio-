@@ -68,6 +68,11 @@ Zajmuję się tworzeniem zaawansowanych **pluginów**, **paczek** oraz **gotowyc
     <td align="center"><img src="TUTAJ_LINK_5" width="400px" style="border-radius:10px;"><br><b>Projekt #5</b></td> 
     <td align="center"><img src="TUTAJ_LINK_6" width="400px" style="border-radius:10px;"><br><b>Projekt #6</b></td> 
   </tr> 
+  <tr> 
+    <td align="center"><img src="TUTAJ_LINK_7" width="400px" style="border-radius:10px;"><br><b>Projekt #7</b></td> 
+    <td align="center"><img src="TUTAJ_LINK_8" width="400px" style="border-radius:10px;"><br><b>Projekt #8</b></td> 
+    <td align="center"><img src="TUTAJ_LINK_9" width="400px" style="border-radius:10px;"><br><b>Projekt #9</b></td> 
+  </tr> 
 </table>
 
 </div>
