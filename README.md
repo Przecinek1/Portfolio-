@@ -51,37 +51,23 @@ Zajmuję się tworzeniem zaawansowanych **pluginów**, **paczek** oraz **gotowyc
 
 ---
 
-## Galeria projektów
+<h2>Galeria projektów</h2>
 
-<h3 align="center">Przykładowe realizacje</h3>
+<p align="center">Przykładowe realizacje</p>
 
-<table align="center" style="border-collapse: separate; border-spacing: 15px; width: 100%;">
-  <tr>
-    <td align="center" style="border: 1px solid #d0d7de; border-radius: 6px; padding: 15px; background: #f6f8fa; width: 33%;">
-      <img src="https://github.com/user-attachments/assets/055bde43-4351-40fb-b602-e4342c92a3e0" alt="Projekt 1" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;"/>
-      <b>Projekt #1</b>
-    </td>
-    <td align="center" style="border: 1px solid #d0d7de; border-radius: 6px; padding: 15px; background: #f6f8fa; width: 33%;">
-      <img src="TUTAJ_WKLEJ_LINK_2" alt="Projekt 2" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;"/>
-      <b>Projekt #2</b>
-    </td>
-    <td align="center" style="border: 1px solid #d0d7de; border-radius: 6px; padding: 15px; background: #f6f8fa; width: 33%;">
-      <img src="TUTAJ_WKLEJ_LINK_3" alt="Projekt 3" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;"/>
-      <b>Projekt #3</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border: 1px solid #d0d7de; border-radius: 6px; padding: 15px; background: #f6f8fa; width: 33%;">
-      <img src="TUTAJ_WKLEJ_LINK_4" alt="Projekt 4" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;"/>
-      <b>Projekt #4</b>
-    </td>
-    <td align="center" style="border: 1px solid #d0d7de; border-radius: 6px; padding: 15px; background: #f6f8fa; width: 33%;">
-      <img src="TUTAJ_WKLEJ_LINK_5" alt="Projekt 5" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;"/>
-      <b>Projekt #5</b>
-    </td>
-    <td align="center" style="border: 1px solid #d0d7de; border-radius: 6px; padding: 15px; background: #f6f8fa; width: 33%;">
-      <img src="TUTAJ_WKLEJ_LINK_6" alt="Projekt 6" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;"/>
-      <b>Projekt #6</b>
-    </td>
-  </tr>
+<div align="center">
+
+<table> 
+  <tr> 
+    <td align="center"><img src="https://github.com/user-attachments/assets/055bde43-4351-40fb-b602-e4342c92a3e0" width="400px" style="border-radius:10px;"><br><b>Projekt #1</b></td> 
+    <td align="center"><img src="TUTAJ_LINK_2" width="400px" style="border-radius:10px;"><br><b>Projekt #2</b></td> 
+    <td align="center"><img src="TUTAJ_LINK_3" width="400px" style="border-radius:10px;"><br><b>Projekt #3</b></td> 
+  </tr> 
+  <tr> 
+    <td align="center"><img src="TUTAJ_LINK_4" width="400px" style="border-radius:10px;"><br><b>Projekt #4</b></td> 
+    <td align="center"><img src="TUTAJ_LINK_5" width="400px" style="border-radius:10px;"><br><b>Projekt #5</b></td> 
+    <td align="center"><img src="TUTAJ_LINK_6" width="400px" style="border-radius:10px;"><br><b>Projekt #6</b></td> 
+  </tr> 
 </table>
+
+</div>
