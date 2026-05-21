@@ -60,18 +60,18 @@ Zajmuję się tworzeniem zaawansowanych **pluginów**, **paczek** oraz **gotowyc
 <table> 
   <tr> 
     <td align="center"><img src="https://github.com/user-attachments/assets/055bde43-4351-40fb-b602-e4342c92a3e0" width="400px" style="border-radius:10px;"><br><b>Projekt #1</b></td> 
-    <td align="center"><img src="TUTAJ_LINK_2" width="400px" style="border-radius:10px;"><br><b>Projekt #2</b></td> 
-    <td align="center"><img src="TUTAJ_LINK_3" width="400px" style="border-radius:10px;"><br><b>Projekt #3</b></td> 
+    <td align="center"><img src="https://github.com/user-attachments/assets/77119c99-2985-4b2f-b50e-02481289e62d" width="400px" style="border-radius:10px;"><br><b>Projekt #2</b></td> 
+    <td align="center"><img src="https://github.com/user-attachments/assets/f85fa66f-9a86-4750-a6e2-fb80039931f1" width="400px" style="border-radius:10px;"><br><b>Projekt #3</b></td> 
   </tr> 
   <tr> 
-    <td align="center"><img src="TUTAJ_LINK_4" width="400px" style="border-radius:10px;"><br><b>Projekt #4</b></td> 
-    <td align="center"><img src="TUTAJ_LINK_5" width="400px" style="border-radius:10px;"><br><b>Projekt #5</b></td> 
-    <td align="center"><img src="TUTAJ_LINK_6" width="400px" style="border-radius:10px;"><br><b>Projekt #6</b></td> 
+    <td align="center"><img src="https://github.com/user-attachments/assets/0af658cf-9f77-4770-9061-5752e28b33c4" width="400px" style="border-radius:10px;"><br><b>Projekt #4</b></td> 
+    <td align="center"><img src="https://github.com/user-attachments/assets/a8c8cf6d-b206-49f0-8fd6-166ae60cb7c2" width="400px" style="border-radius:10px;"><br><b>Projekt #5</b></td> 
+    <td align="center"><img src="https://github.com/user-attachments/assets/52bfe0b2-9b44-49a7-a343-d0d37d0e6533" width="400px" style="border-radius:10px;"><br><b>Projekt #6</b></td> 
   </tr> 
   <tr> 
-    <td align="center"><img src="TUTAJ_LINK_7" width="400px" style="border-radius:10px;"><br><b>Projekt #7</b></td> 
-    <td align="center"><img src="TUTAJ_LINK_8" width="400px" style="border-radius:10px;"><br><b>Projekt #8</b></td> 
-    <td align="center"><img src="TUTAJ_LINK_9" width="400px" style="border-radius:10px;"><br><b>Projekt #9</b></td> 
+    <td align="center"><img src="https://github.com/user-attachments/assets/de42f3f7-39a1-4c0a-b386-05293131e731" width="400px" style="border-radius:10px;"><br><b>Projekt #7</b></td> 
+    <td align="center"><img src="https://github.com/user-attachments/assets/d6953ebe-5f0e-4cd7-bdf6-540ddb5e935b" width="400px" style="border-radius:10px;"><br><b>Projekt #8</b></td> 
+    <td align="center"><img src="https://github.com/dec0dOS/dec0dOS/assets/81198642/41130e94-388e-49b9-acfc-33230b503e91" width="400px" style="opacity: 0;"><br><b></b></td> 
   </tr> 
 </table>
 
